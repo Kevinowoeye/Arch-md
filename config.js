@@ -8,8 +8,8 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //======= Change settings =======\\
-global.owner = ["2349165245976"]
-global.botname = ["Arch Md"]
+global.owner = ["2349066008519"]
+global.botname = ["Patron Bot"]
 global.simbol = "♘"
 global.typeMenu = 'v5' //don't change 
 global.anticall = false // set true to turn anticall always on
